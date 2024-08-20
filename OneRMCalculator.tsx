@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import './styles.css';
+
 
 const rpes = [10, 9.5, 9, 8.5, 8, 7.5, 7, 6.5];
 const reps = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
